@@ -17,6 +17,10 @@
   color: #61dafb;
 }
 
+.aboutme > p {
+  margin:10px 50px;
+}
+
 .footer-info{
   background-color: aquamarine;
 }
