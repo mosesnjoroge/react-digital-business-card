@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: black;
+  margin:20px 50px;
 }
 
 .profilephoto>img{
@@ -8,8 +10,13 @@
   text-align: center;
 }
 
-.aboutme > p {
+.profilephoto{
+  color: #F4F4F4;
+}
+
+.aboutme {
   margin:10px 50px;
+  color: #F4F4F4;
 }
 
 .footer-links {
