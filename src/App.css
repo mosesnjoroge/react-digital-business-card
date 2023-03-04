@@ -41,3 +41,15 @@
 .footer-links a:hover {
   opacity: 1;
 }
+
+.emailbtn{
+  margin-left: 10px;
+}
+
+.info--linkedinicon{
+ margin-right: 4px;
+}
+
+.info--emailicon{
+  margin-right: 4px;
+}
