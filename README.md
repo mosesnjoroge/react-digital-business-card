@@ -1,3 +1,5 @@
+<img width="616" alt="Screenshot 2023-03-04 at 5 45 10 PM" src="https://user-images.githubusercontent.com/102884273/222931994-7ebf298e-f42a-43fa-b497-c69f904d9373.png">
+
 # Digital business card
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It a small application that is a display of a personal digital business card.
