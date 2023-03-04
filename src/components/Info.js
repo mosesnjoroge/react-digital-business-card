@@ -1,7 +1,9 @@
 import React from "react";
-
+import logo from './profilephoto.jpeg';
 export default function Info() {
   return (
-      <p>photo goes here</p>
+  <div className= 'profilephoto'>
+    <img src={logo} alt="Moses Njoroge" />
+  </div>
   )
 }
