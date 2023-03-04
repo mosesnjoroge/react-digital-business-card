@@ -1,7 +1,11 @@
 .App {
   text-align: center;
+  /* display: flex;
+  align-items: center;
+  justify-items:center; */
   background-color: black;
   margin:20px 50px;
+  max-width: 30%;
 }
 
 .profilephoto>img{
@@ -15,7 +19,6 @@
 }
 
 .aboutme {
-  margin:10px 50px;
   color: #F4F4F4;
 }
 
