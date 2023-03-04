@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  /* display: flex;
+  align-items: center;
+  justify-items:center; */
+  background-color: black;
+  margin:20px 50px;
+  max-width: 30%;
 }
 
 .profilephoto>img{
@@ -8,16 +14,23 @@
   text-align: center;
 }
 
-.aboutme > p {
-  margin:10px 50px;
+.profilephoto{
+  color: #F4F4F4;
+}
+
+.aboutme {
+  color: #F4F4F4;
 }
 
 .footer-links {
   display: flex;
   align-items: center;
-  justify-content: center;
-  background-color: aquamarine;
+  justify-content: space-around;
+  background: #F4F4F4;
+  padding: 0px 50px;
+  color: rgba(0,0,0,0.3);
 }
+
 .footer-links a {
   color: black;
   opacity: 0.15;
@@ -27,4 +40,16 @@
 }
 .footer-links a:hover {
   opacity: 1;
+}
+
+.emailbtn{
+  margin-left: 10px;
+}
+
+.info--linkedinicon{
+ margin-right: 4px;
+}
+
+.info--emailicon{
+  margin-right: 4px;
 }
