@@ -3,6 +3,7 @@
   background-color: black;
   margin:20px 50px;
   /* max-width: 50%; */
+  border-radius: 25px;
 }
 
 .profilephoto>img{
@@ -26,6 +27,7 @@
   background: #F4F4F4;
   padding: 0px 50px;
   color: rgba(0,0,0,0.3);
+  border-radius: 25px;
 }
 
 .footer-links a {
