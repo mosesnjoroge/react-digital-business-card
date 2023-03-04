@@ -1,4 +1,5 @@
-<img width="616" alt="Screenshot 2023-03-04 at 5 45 10 PM" src="https://user-images.githubusercontent.com/102884273/222931994-7ebf298e-f42a-43fa-b497-c69f904d9373.png">
+<img width="632" alt="Screenshot 2023-03-04 at 5 52 09 PM" src="https://user-images.githubusercontent.com/102884273/222932254-23bd99d2-0d6d-4fed-a379-bdf16939892b.png">
+
 
 # Digital business card
 
