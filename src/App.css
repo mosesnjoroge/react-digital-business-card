@@ -2,9 +2,10 @@
   text-align: center;
 }
 
-.profilephoto{
+.profilephoto>img{
   height: 200px;
-  width: 150px;
+  width: 276px;
+  text-align: center;
 }
 
 .aboutme > p {
